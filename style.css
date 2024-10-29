@@ -1,0 +1,11 @@
+
+:root {
+    --bg-color:#3B1E54;
+    --primary-color: #9B7EBD;
+    --secundary-color: #D4BEE4;
+    --font: “Nunito Sans”, sans-serif;
+    }
+
+    body {
+    background-color: var(--bg-color);
+        }
